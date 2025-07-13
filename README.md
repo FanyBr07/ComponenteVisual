@@ -27,7 +27,7 @@ Crea una imagen `BufferedImage` con:
 ## Propiedades configurables
 
 - `setTipo(TipoCaptcha tipo)` – letras, números o mixto:  
-  ![Num](https://ibb.co/JWNX49wS/numero.png)  
+  ![Num](https://i.ibb.co/9mJRL7kd/numeros.png)  
   ![Let](https://i.ibb.co/G4LCzpzT/letras.png)  
   ![Mix](https://i.ibb.co/RGz8KB02/mixto.png)
 
@@ -36,7 +36,7 @@ Crea una imagen `BufferedImage` con:
   ![OpMenor](https://i.ibb.co/BV15jnGK/menor-Opacidad.png)
 
 - `setAnchoCaptcha(int ancho)` – ancho del panel:  
-  ![Ancho](https://i.ibb.co/VWGBStB/ancho.png)
+  ![Ancho](https://i.ibb.co/VWGBStBW/ancho.png)
 
 - `setAltoCaptcha(int alto)` – alto del panel:  
   ![Alto](https://i.ibb.co/MxnSRMG7/alto.png)
@@ -45,7 +45,7 @@ Crea una imagen `BufferedImage` con:
   ![Long](https://i.ibb.co/wrWJLWxn/longitud.png)
 
 - Vista general de propiedades:  
-  ![Prop](https://imgbb.com/][img]https://i.ibb.co/TD1Zhdb8/propiedades.pn)
+  ![Prop](https://i.ibb.co/TD1Zhdb8/propiedades.png)
 
 ---
 
