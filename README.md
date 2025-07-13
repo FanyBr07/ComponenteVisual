@@ -28,24 +28,24 @@ Crea una imagen `BufferedImage` con:
 
 - `setTipo(TipoCaptcha tipo)` – letras, números o mixto:  
   ![Num](https://ibb.co/JWNX49wS/numero.png)  
-  ![Let](https://ibb.co/Q3RYyQyd)  
-  ![Mix](https://ibb.co/SDRSgdnN)
+  ![Let](https://i.ibb.co/G4LCzpzT/letras.png)  
+  ![Mix](https://i.ibb.co/RGz8KB02/mixto.png)
 
 - `setOpacidad(int opacidad)` – nivel de opacidad del texto (0 a 100):  
-  ![OpMayor](https://ibb.co/Kz9xNZ6x)  
-  ![OpMenor](https://ibb.co/HDJfYhCp)
+  ![OpMayor](https://i.ibb.co/3Y0mfX1m/mayor-Opacidad.png)  
+  ![OpMenor](https://i.ibb.co/BV15jnGK/menor-Opacidad.png)
 
 - `setAnchoCaptcha(int ancho)` – ancho del panel:  
-  ![Ancho](https://ibb.co/DDFKCtKD)
+  ![Ancho](https://i.ibb.co/VWGBStB/ancho.png)
 
 - `setAltoCaptcha(int alto)` – alto del panel:  
-  ![Alto](https://ibb.co/v61qJZQk)
+  ![Alto](https://i.ibb.co/MxnSRMG7/alto.png)
 
 - `setLongitud(int longitud)` – cantidad de caracteres del código (4 a 8):  
-  ![Long](https://ibb.co/LhtQPt2T)
+  ![Long](https://i.ibb.co/wrWJLWxn/longitud.png)
 
 - Vista general de propiedades:  
-  ![Prop](https://ibb.co/ympDs7Yy)
+  ![Prop](https://imgbb.com/][img]https://i.ibb.co/TD1Zhdb8/propiedades.pn)
 
 ---
 
@@ -69,10 +69,10 @@ Se creó un login común y funcional que utiliza el `CaptchaPanel` como medida d
 ### Funcionamiento:
 - ✅ Valida correo, contraseña y CAPTCHA
 - ❌ Muestra mensaje si el CAPTCHA no es correcto  
-  ![Incorrecto](https://ibb.co/4nm5GJsq)
+  ![Incorrecto](https://i.ibb.co/67nfxNvM/incorrecto.png)
 - 🔄 Refresca el CAPTCHA de forma dinámica
 - ✅ Muestra acceso concedido si los datos son correctos  
-  ![Correcto](https://ibb.co/MxLwB1X9)
+  ![Correcto](https://i.ibb.co/gLCq4Wn6/correcto.png)
 
 ---
 # Video Youtube Componente Visual Java Swing 🧩
