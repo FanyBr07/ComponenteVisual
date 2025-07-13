@@ -27,7 +27,7 @@ Crea una imagen `BufferedImage` con:
 ## Propiedades configurables
 
 - `setTipo(TipoCaptcha tipo)` – letras, números o mixto:  
-  ![Num](https://ibb.co/JWNX49wS)  
+  ![Num](https://ibb.co/JWNX49wS/numero.png)  
   ![Let](https://ibb.co/Q3RYyQyd)  
   ![Mix](https://ibb.co/SDRSgdnN)
 
