@@ -84,12 +84,15 @@ Este repositorio contiene un componente personalizado de CAPTCHA para formulario
 
 
 ## Instrucciones de uso
-
 1. Clona o descarga este repositorio.
 2. Abre el proyecto en **NetBeans**.
-3. Ejecuta la clase `Login.java` para ver el formulario con CAPTCHA.
-4. Usa el botón **Validar** para comprobar el CAPTCHA y luego ingresar.
-5. Puedes cambiar las propiedades del componente desde el editor visual o por código:
+3. Primero, compila tu clase CaptchaPanel.java pero este de manera jar (Clean and build project o shift + 11)
+4. Seguido de eso en tu pañeta dale click derecho y creas una nuerva categoria
+5. Luego, da clic derecho en la paleta de componentes, elige ‘Agregar desde archivo Jar...’, selecciona tu .jar o clase compilada, y añade CaptchaPanel a una categoría personalizada (de la misma manera en el que lo nombraste)
+6. Ejecuta la clase `Login.java` para ver el formulario con CAPTCHA
+7. Ahora, abre tu formulario de tipo JFrame, y simplemente arrastra el componente CaptchaPanel desde la paleta hacia el panel donde recomiendo que a tu variable la llames captcha para asi probarlo dentro del login que te incluimos
+8. Usa el botón **Validar** para comprobar el CAPTCHA y luego ingresar.
+9. Puedes cambiar las propiedades del componente desde el editor visual o por código:
 
 ```java
 captcha.setTipo(CaptchaPanel.TipoCaptcha.mixto);
