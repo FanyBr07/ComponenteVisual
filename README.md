@@ -75,6 +75,13 @@ Se creó un login común y funcional que utiliza el `CaptchaPanel` como medida d
   ![Correcto](https://ibb.co/MxLwB1X9)
 
 ---
+# Video Youtube Componente Visual Java Swing 🧩
+
+Este repositorio contiene un componente personalizado de CAPTCHA para formularios en Java 
+
+🎥 Mira cómo usarlo paso a paso:  
+[![Ver en YouTube](https://img.shields.io/badge/Ver_en-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/8A79e1IdhPc)
+
 
 ## Instrucciones de uso
 
@@ -88,6 +95,7 @@ Se creó un login común y funcional que utiliza el `CaptchaPanel` como medida d
 captcha.setTipo(CaptchaPanel.TipoCaptcha.mixto);
 captcha.setLongitud(6);
 captcha.setOpacidad(80);
+
 
 ---
 ## Creditos
